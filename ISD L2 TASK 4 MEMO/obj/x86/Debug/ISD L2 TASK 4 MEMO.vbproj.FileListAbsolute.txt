@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\obj\x86\Debug\ISD_L2_TASK_4_MEMO.EasyRead.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\obj\x86\Debug\ISD_L2_TASK_4_MEMO.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\obj\x86\Debug\ISD L2 TASK 4 MEMO.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\bin\Debug\ISD L2 TASK 4 MEMO.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\bin\Debug\ISD L2 TASK 4 MEMO.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\bin\Debug\ISD L2 TASK 4 MEMO.xml
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\obj\x86\Debug\ISD L2 TASK 4 MEMO.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\obj\x86\Debug\ISD L2 TASK 4 MEMO.xml
+c:\users\administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\obj\x86\Debug\ISD L2 TASK 4 MEMO.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\ISD L2 TASK 4 MEMO\ISD L2 TASK 4 MEMO\obj\x86\Debug\ISD_L2_TASK_4_MEMO.Form2.resources
